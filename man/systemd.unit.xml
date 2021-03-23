@@ -1121,7 +1121,7 @@
 
       <para>The <command>condition</command> verb of
       <citerefentry><refentrytitle>systemd-analyze</refentrytitle><manvolnum>1</manvolnum></citerefentry> can
-      be used to test condition and assert expressions.</para>
+      be used to test conditions and assert expressions.</para>
 
       <para>Except for <varname>ConditionPathIsSymbolicLink=</varname>, all path checks follow symlinks.</para>
 
